@@ -1,0 +1,16 @@
+{
+  "inventario": [
+    {
+      "id": "001",
+      "name": "Papa",
+      "quantity": "123",
+      "price": "1212000"
+    },
+    {
+      "id": "01",
+      "name": "Arroz",
+      "quantity": "12",
+      "price": "10000"
+    }
+  ]
+}
