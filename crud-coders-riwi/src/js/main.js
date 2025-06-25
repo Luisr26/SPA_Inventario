@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .then(response => response.json())
             .then(data => {
                 alert(`Productos Cargados Con Exito`);
+                
                 data.forEach(product => {
                     const tr = document.createElement('tr');
 
